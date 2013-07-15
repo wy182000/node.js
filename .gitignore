@@ -57,3 +57,7 @@ deps/openssl/openssl.xml
 /SHASUMS.txt*
 
 /tools/wrk/wrk
+
+# npm
+npm
+node_modules
